@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:firstapp/passwordGen/passwordOptions.dart';
 import 'package:firstapp/shared/bottom_nav.dart';
 
+//A chunk of this code was taken from GitHub user bepatrik
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
 
